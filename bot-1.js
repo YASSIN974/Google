@@ -12,7 +12,7 @@ client.user.setGame(` `,"http://twitch.tv/M3a4x")
 client.user.setStatus("dnd")
 });
 
-const devs = ["548207173176524800","332713449215754242"]
+const devs = ["548207173176524800"]
 
 const adminprefix = "*";
 client.on('message', message => {
